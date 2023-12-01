@@ -28,7 +28,7 @@ En se connectant sur le VPN on obtient une route pour les deux /24 suivants:
 Le premier est celui sur laquelle on récupère une IP et ou est présent notre gateway **172.10.15.253** qui est declaré aussi comme serveur DNS.
 Lors d'une première tentative, probablement à cause d'une surcharge de l'infra, rien ne répond sur la range 10.10.2.0/24.
 
-Le serveur DNS répond bien.
+Cependant, le serveur DNS nous répond bien si on l'interrroge.
 
 ```
 ;; ANSWER SECTION:
