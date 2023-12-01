@@ -233,7 +233,7 @@ On obtient alors un accès complet à la workstation ce qui nous permet enfin d'
 Nan je bluff, en fait la LPE ne sert à rien du tout dans ce challenge, c'est bonus.
 
 
-## Compromission de l'Active Directory - accès à DC2
+## Compromission de l'Active Directory - Part1
 
 Afin de pivoter, on lance un serveur socks avec l'outil de notre choix.
 
@@ -261,7 +261,7 @@ Après une tentative de brutefoce infructueuse avec netexec/cme vers SMB, on ess
 
 En moins de 10 essais avec kerbrute, on voit enfin que DC2 sur 192.168.10.49 répond aux pings.
 
-## Compromission de l'Active Directory - Fin
+## Compromission de l'Active Directory - Part2 Fin
 
 Commence alors le jeu des 7 différences entre les 2 DCs.
 
