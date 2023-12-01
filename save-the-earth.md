@@ -270,7 +270,7 @@ Après avoir:
 * fait un diff des informations récoltés sur les GPO, Users, computers via bloodhound.py
 * Parcouru les shares réseaux
 
-On fini par faire un dump des RPCs acc)essibles via impacket
+On fini par faire un dump des RPCs accessibles via impacket
 
 ![image](https://github.com/nikaiw/dghack2023/assets/1255732/9c0bbee0-c467-4fa0-9ef3-c71a9ba83a88)
 
@@ -310,4 +310,8 @@ Puis une fois la dll prête, on lance notre attaque en l'exposant sur un share s
 
 Pour finir il nous suffit d'utiliser notre compte administrateur nouvellement créé ```python3 secretsdump.py  'greenbiovitalia.ctf/myadmin:P@ssword123!@192.168.10.49'```
 
+
+Après avoir terminé, ma première déclaration sur le discord du challenge aura été:
+
+"je suis content d'avoir terminé parce que ça tournait vraiment au **cauchemar**." ;)
 
