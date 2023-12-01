@@ -313,5 +313,6 @@ Pour finir il nous suffit d'utiliser notre compte administrateur nouvellement cr
 
 Après avoir terminé, ma première déclaration sur le discord du challenge aura été:
 
-"je suis content d'avoir terminé parce que ça tournait vraiment au **cauchemar**." ;)
+"je suis content d'avoir terminé parce que ça tournait vraiment au **cauchemar**." 
 
+Faisant ainsi une discrète allusion à la vulnérabilité à utiliser pour résoudre de challenge.
