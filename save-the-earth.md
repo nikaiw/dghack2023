@@ -70,7 +70,7 @@ En réfléchissant à ce qu'il serait possible d'envoyer on remarque que Lara a 
 
 Lara semble disposée à ouvrir nos pièces jointes et j'ai justement quelques propositions RSE qui pourrait lui convenir.
 
-En utilisant le script suivant on envoie un mail à Lara avec le fichier .exe de notre choix qui sera executée.
+En utilisant le script suivant on envoie un mail à Lara avec le fichier .exe de notre choix qui sera executé.
 
 ```python
 import smtplib
